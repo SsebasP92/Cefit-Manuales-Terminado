@@ -1,0 +1,8 @@
+mysql-connector-python
+bcrypt
+python-dotenv
+Pillow
+PyMuPDF
+PyPDF2
+Pyinstaller
+cx_Freeze
